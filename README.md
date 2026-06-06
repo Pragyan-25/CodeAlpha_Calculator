@@ -39,7 +39,7 @@ CodeAlpha_Calculator/
 
 ## Live Demo
 
-Add your GitHub Pages link here after deployment.
+https://github.com/Pragyan-25/CodeAlpha_Calculator/
 
 ## Author
 
